@@ -1,4 +1,5 @@
-### Hi there 👋
+### Desarrollador web junior con formación práctica en desarrollo full stack.
+### Busco una primera oportunidad en el sector IT donde pueda seguiraprendiendo.👋
 
 <!--
 **riduarte/riduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
